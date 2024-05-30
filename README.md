@@ -9,7 +9,7 @@ int main() {
 }
 ```
 your local js, gnu/linux, networking and other tech related stuff enthusiast  
-also bisexual and a furry if you care
-󠁛󠀣󠁦󠁦󠀰󠀰󠀴󠀴󠀬󠀣󠀰󠀰󠀸󠁡󠁦󠁦󠁝
-email: lolbird1@proton.me
+also bisexual and a furry if you care  
+󠁛󠀣󠁦󠁦󠀰󠀰󠀴󠀴󠀬󠀣󠀰󠀰󠀸󠁡󠁦󠁦  
+email: lolbird1@proton.me  
 discord: root.tar.gz
