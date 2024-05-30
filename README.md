@@ -8,7 +8,7 @@ int main() {
   return 0;
 }
 ```
-your local js, gnu/linux, networking and other tech related stuff enthusiast
+your local js, gnu/linux, networking and other tech related stuff enthusiast  
 also bisexual and a furry if you care
 󠁛󠀣󠁦󠁦󠀰󠀰󠀴󠀴󠀬󠀣󠀰󠀰󠀸󠁡󠁦󠁦󠁝
 email: lolbird1@proton.me
