@@ -11,5 +11,5 @@ int main() {
 your local js, gnu/linux, networking and other tech related stuff enthusiast  
 also bisexual and a furry if you care  
 󠁛󠀣󠁦󠁦󠀰󠀰󠀴󠀴󠀬󠀣󠀰󠀰󠀸󠁡󠁦󠁦  
-email: lolbird1(at)proton(dot)me  
+email: lolbird(at)tutamail(dot)com  
 [discord](https://discord.com/users/546768454427082785)
