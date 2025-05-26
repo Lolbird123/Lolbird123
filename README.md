@@ -1,3 +1,4 @@
+![minecraft screenshot of a fox sitting on a tree, with a berry in its mouth, staring off into the distance](banner.png)
 ```c
 #include <stdio.h>
 #include <unistd.h>
@@ -8,8 +9,3 @@ int main() {
   return 0;
 }
 ```
-your local js, gnu/linux, networking and other tech related stuff enthusiast  
-also bisexual and a furry if you care  
-󠁛󠀣󠁦󠁦󠀰󠀰󠀴󠀴󠀬󠀣󠀰󠀰󠀸󠁡󠁦󠁦  
-email: lolbird(at)tutamail(dot)com  
-[discord](https://discord.com/users/546768454427082785)
